@@ -25,5 +25,8 @@
   <summary>:bulb: Most Used Languages </summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KenanHas&theme=onedark">
   </details>
+ 
+ 
+ 
   [linkedin]: https://www.linkedin.com/in/kenan-has-157421207/
   
