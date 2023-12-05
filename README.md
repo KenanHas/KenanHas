@@ -4,10 +4,9 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C38&width=435&lines=Hello!+👋;I+am+Kenan+HAS&center=true&size=25" 
 </a>
-  
-<h4 align="center">Android Developer</h4>
-
-<h4 align="left">Connect with me:</h4>
+<a color=#F7F7F7FF>
+<h2 align="center">Android Developer</h3>
+<h3 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://linkedin.com/in/kenan has" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kenan has" height="30" width="40" /></a>
 <a href="https://medium.com/@kenan has" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kenan has" height="30" width="40" /></a>
