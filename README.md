@@ -1,12 +1,12 @@
 <img src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
  
- <h1 align="center">
+<a align="left"> <img src="https://komarev.com/ghpvc/?username=kenanhas&label=Profile%20views&color=0e75b6" /></a>
+
+<h1 align="center"</h1>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C38&width=435&lines=Hello!+👋;I+am+Kenan+HAS&center=true&size=25" 
-</a>
- 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kenanhas&label=Profile%20views&color=0e75b6" />
-                                                                                                                            
+  <img align="center" src= "https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F73C38&width=435&lines=Hello!+👋;I+am+Kenan+HAS&center=true&size=25"
+/></a>
+                                                                                                                   
 <a color=F7F7F7FF>
 <h2 align="left">Who am I</h3>
 
