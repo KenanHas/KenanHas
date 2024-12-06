@@ -10,7 +10,7 @@
 
 <h3 align="left">Who am I</h3>
 
-<h4>Hello, I am Kenan Has. I have been developing mobile applications for devices with Android operating system for about 1.5 years. I initially used the Java language, but now I am currently developing applications with the Kotlin language.</h4>
+<h4>Hello, I am Kenan Has. I have been developing mobile applications for devices with Android operating system for about 2 years. I initially used the Java language, but now I am currently developing applications with the Kotlin language.</h4>
 
 <h3 align="center">Connect with me:</h2>
 <p align="center">
