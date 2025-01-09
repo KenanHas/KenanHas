@@ -23,7 +23,7 @@
 
 <h3 align="center">My GitHub Stats:</h3>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenanhas&show_icons=true&theme=dracula&title_color=ff7372&text_color=ffffff&bg_color=252334&hide_border=true&locale=en&layout=compact" alt="kenanhas">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenanhas&show_icons=true&theme=dark&title_color=ff7372&text_color=ffffff&bg_color=252334&hide_border=true&locale=en" alt="kenanhas">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kenanhas&show_icons=true&theme=dracula&title_color=ff7372&text_color=ffffff&bg_color=252334&hide_border=true&locale=en&layout=compact&cache_seconds=1800" alt="kenanhas">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenanhas&show_icons=true&theme=dark&title_color=ff7372&text_color=ffffff&bg_color=252334&hide_border=true&locale=en&cache_seconds=1800" alt="kenanhas">
 </p>
 
